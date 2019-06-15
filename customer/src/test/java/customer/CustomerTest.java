@@ -9,6 +9,6 @@ class CustomerTest {
     @Test
     void getName() {
         Customer customer = new Customer();
-        assertEquals("Customer",customer.getName(),"Customer name mismatch");
+        assertEquals("CUSTOMER",customer.getName(),"Customer name mismatch");
     }
 }
