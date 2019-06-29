@@ -9,6 +9,7 @@
         <module name="customer" />
         <module name="Person" />
         <module name="employee" />
+        <module name="Transactions" />
       </profile>
     </annotationProcessing>
   </component>
